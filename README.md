@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🖖, I'm Jose Jimenez</h1>
+<h1 align="center">Hi 🤘, I'm Jose Jimenez</h1>
 <h3 align="center">Software Architect and Developer out of San Diego, CA</h3>
 
 - 📝 I write articles on [https://jose.jimenez.dev](https://jose.jimenez.dev)
