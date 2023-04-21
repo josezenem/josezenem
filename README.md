@@ -3,7 +3,7 @@
 
 - 📝 I write articles on [https://jose.jimenez.dev](https://jose.jimenez.dev)
 
-- 💬 Ask me about **Laravel, PHP**
+- 💬 Ask me about **Laravel, PHP, ReactJS, Next.js, VueJS**
 
 - ⚡ Fun fact **Love snowboarding 🏂**
 
