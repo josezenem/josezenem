@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Simplify Your Laravel Project Installation with One Custom Command](https://jose.jimenez.dev/simplify-your-laravel-project-installation-with-one-custom-command)
 - [Getting Next.js 13, Laravel 10, Sanctum, Homestead and custom domain up and running](https://jose.jimenez.dev/getting-nextjs-13-laravel-10-sanctum-with-homestead-and-custom-domain-up-and-running-local-development)
 - [Using OpenAI&#39;s GPT Model to Filter Famous Personalities and Brands in Text Input](https://jose.jimenez.dev/using-openais-gpt-model-to-filter-famous-personalities-and-brands-in-text-input)
 - [Stable Diffusion how many ways to train a model](https://jose.jimenez.dev/stable-diffusion-how-many-ways-to-train-a-model-on-person-s-likeness)
 - [PHP Coding Standards Fixer with Github Actions](https://jose.jimenez.dev/php-coding-standards-fixer-with-github-actions)
-- [Create pre and post deploy notifications in Laravel Forge using Slack](https://jose.jimenez.dev/create-pre-and-post-deploy-notifications-in-laravel-forge-using-slack)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
