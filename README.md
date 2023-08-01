@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing Development Performance: Running npm run dev Outside Laravel Homestead for Efficient Hot Reload with Vue.js](https://jose.jimenez.dev/enhancing-development-performance-running-npm-run-dev-outside-laravel-homestead-for-efficient-hot-reload-with-vue-js)
 - [How to Setup Fontawesome Library with Laravel 10, Inertia, and Vue 3](https://jose.jimenez.dev/how-to-setup-fontawesome-library-with-laravel-10-inertia-and-vue-3)
 - [Simplify Your Laravel Project Installation with One Custom Command](https://jose.jimenez.dev/simplify-your-laravel-project-installation-with-one-custom-command)
 - [Getting Next.js 13, Laravel 10, Sanctum, Homestead and custom domain up and running](https://jose.jimenez.dev/getting-nextjs-13-laravel-10-sanctum-with-homestead-and-custom-domain-up-and-running-local-development)
 - [Using OpenAI&#39;s GPT Model to Filter Famous Personalities and Brands in Text Input](https://jose.jimenez.dev/using-openais-gpt-model-to-filter-famous-personalities-and-brands-in-text-input)
-- [Stable Diffusion how many ways to train a model](https://jose.jimenez.dev/stable-diffusion-how-many-ways-to-train-a-model-on-person-s-likeness)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
