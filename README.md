@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Boosting Database Efficiency in Laravel: Master/Slave Setup and Replicated Reporting](https://jose.jimenez.dev/boosting-database-efficiency-in-laravel-master-slave-setup-and-replicated-reporting)
 - [Laravel Quick Tips: Simplify Your Eloquent Queries](https://jose.jimenez.dev/laravel-quick-tips-simplify-your-eloquent-queries)
 - [Installing Homebrew and Using OpenConnect on Mac with shell to Manage VPN](https://jose.jimenez.dev/installing-homebrew-and-using-openconnect-on-mac-with-shell-to-manage-vpn)
 - [Running npm run dev Outside Laravel Homestead for Efficient Hot Reload with Vue.js](https://jose.jimenez.dev/running-npm-run-dev-outside-laravel-homestead-for-efficient-hot-reload-with-vuejs)
 - [How to Setup Fontawesome Library with Laravel 10, Inertia, and Vue 3](https://jose.jimenez.dev/how-to-setup-fontawesome-library-with-laravel-10-inertia-and-vue-3)
-- [Simplify Your Laravel Project Installation with One Custom Command](https://jose.jimenez.dev/simplify-your-laravel-project-installation-with-one-custom-command)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
