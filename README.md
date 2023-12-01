@@ -9,7 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Master Conditional Queries with Laravel Eloquent&#39;s when&lpar;&rpar; and whereRaw&lpar;&#39;0 = 1&#39;&rpar; for Accurate Filtering](https://jose.jimenez.dev/master-conditional-queries-with-laravel-eloquents-when-and-whereraw-0-1-for-accurate-filtering)
+- [Pro Tip: Filtering Queries with Laravel Eloquent&#39;s when&lpar;&rpar; and whereRaw&lpar;&#39;0 = 1&#39;&rpar; for Accurate Results](https://jose.jimenez.dev/pro-tip-filtering-queries-with-laravel-eloquents-when-and-whereraw0-1-for-accurate-results)
 - [Boosting Database Efficiency in Laravel: Master/Slave Setup and Replicated Reporting](https://jose.jimenez.dev/boosting-database-efficiency-in-laravel-master-slave-setup-and-replicated-reporting)
 - [Laravel Quick Tips: Simplify Your Eloquent Queries](https://jose.jimenez.dev/laravel-quick-tips-simplify-your-eloquent-queries)
 - [Installing Homebrew and Using OpenConnect on Mac with shell to Manage VPN](https://jose.jimenez.dev/installing-homebrew-and-using-openconnect-on-mac-with-shell-to-manage-vpn)
