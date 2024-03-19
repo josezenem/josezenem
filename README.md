@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Temporary Fix for Laravel Homestead Provisioning Issue](https://jose.jimenez.dev/temporary-fix-for-laravel-homestead-provisioning-issue)
 - [How to Manage Multiple GitHub Accounts and Ensure Proper Credentials for Each Repository](https://jose.jimenez.dev/how-to-manage-multiple-github-accounts-and-ensure-proper-credentials-for-each-repository)
 - [Troubleshooting Laravel Horizon Jobs Stuck in Pending](https://jose.jimenez.dev/troubleshooting-laravel-horizon-jobs-stuck-in-pending)
 - [Pushing a Laravel Vue.js App to Production: CDN Hosting and Server Load Distribution](https://jose.jimenez.dev/pushing-a-laravel-vuejs-app-to-production-cdn-hosting-and-server-load-distribution)
 - [Pro Tip: Filtering Queries with Laravel Eloquent&#39;s when&lpar;&rpar; and whereRaw&lpar;&#39;0 = 1&#39;&rpar; for Accurate Results](https://jose.jimenez.dev/pro-tip-filtering-queries-with-laravel-eloquents-when-and-whereraw0-1-for-accurate-results)
-- [Boosting Database Efficiency in Laravel: Master/Slave Setup and Replicated Reporting](https://jose.jimenez.dev/boosting-database-efficiency-in-laravel-master-slave-setup-and-replicated-reporting)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
