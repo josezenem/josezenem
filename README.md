@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **Love snowboarding 🏂**
 
-### Latest Articles
+### Recent Articles
 <!-- BLOG-POST-LIST:START -->
 - [Resolving Laravel Homestead Vagrant &#39;Up&#39; Issues on macOS: Full Disk Access Required](https://jose.jimenez.dev/resolving-laravel-homestead-vagrant-up-issues-on-macos-full-disk-access-required)
 - [How to Trust the Charles Proxy Certificate on macOS](https://jose.jimenez.dev/how-to-trust-the-charles-proxy-certificate-on-macos)
