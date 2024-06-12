@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Resolving Laravel Homestead Vagrant &#39;Up&#39; Issues on macOS: Full Disk Access Required](https://jose.jimenez.dev/resolving-laravel-homestead-vagrant-up-issues-on-macos-full-disk-access-required)
 - [How to Trust the Charles Proxy Certificate on macOS](https://jose.jimenez.dev/how-to-trust-the-charles-proxy-certificate-on-macos)
 - [Understanding the Laravel N+1 Problem and How to Solve It](https://jose.jimenez.dev/understanding-the-laravel-n-1-problem-and-how-to-solve-it)
 - [Temporary Fix for Laravel Homestead Provisioning Issue](https://jose.jimenez.dev/temporary-fix-for-laravel-homestead-provisioning-issue)
 - [How to Manage Multiple GitHub Accounts and Ensure Proper Credentials for Each Repository](https://jose.jimenez.dev/how-to-manage-multiple-github-accounts-and-ensure-proper-credentials-for-each-repository)
-- [Troubleshooting Laravel Horizon Jobs Stuck in Pending](https://jose.jimenez.dev/troubleshooting-laravel-horizon-jobs-stuck-in-pending)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
