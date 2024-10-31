@@ -9,11 +9,11 @@
 
 ### Recent Articles
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Laravel Redirects: A Comprehensive Guide](https://jose.jimenez.dev/mastering-laravel-redirects-a-comprehensive-guide)
 - [Enhancing Laravel Function Customization with Composer Preload Files Plugin](https://jose.jimenez.dev/enhancing-laravel-function-customization-with-composer-preload-files-plugin)
 - [Streamlining Enum Class Naming in PHP with Laravel](https://jose.jimenez.dev/streamlining-enum-class-naming-in-php-with-laravel)
 - [How to Fork a Package and Point to Your Own Version Using Composer](https://jose.jimenez.dev/how-to-fork-a-package-and-point-to-your-own-version-using-composer)
 - [Resolving Laravel Homestead Vagrant &#39;Up&#39; Issues on macOS: Full Disk Access Required](https://jose.jimenez.dev/resolving-laravel-homestead-vagrant-up-issues-on-macos-full-disk-access-required)
-- [How to Trust the Charles Proxy Certificate on macOS](https://jose.jimenez.dev/how-to-trust-the-charles-proxy-certificate-on-macos)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
