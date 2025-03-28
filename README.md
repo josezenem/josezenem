@@ -9,11 +9,11 @@
 
 ### Recent Articles
 <!-- BLOG-POST-LIST:START -->
+- [10 Essential Laravel Performance Optimization Techniques](https://jose.jimenez.dev/10-essential-laravel-performance-optimization-techniques)
 - [Optimizing Spatie Media Library for Large Collections: A Custom Path Generator](https://jose.jimenez.dev/optimizing-spatie-media-library-for-large-collections-a-custom-path-generator)
 - [Best Practices for Creating and Organizing Laravel Artisan Commands](https://jose.jimenez.dev/best-practices-for-creating-and-organizing-laravel-artisan-commands)
 - [Fixing &quot;EHOSTUNREACH&quot; Error in Postman on MacOS](https://jose.jimenez.dev/fixing-ehostunreach-error-in-postman-on-macos)
 - [Configuring MaxMind GeoIP with AWS Load Balancers: A Technical Guide](https://jose.jimenez.dev/configuring-maxmind-geoip-with-aws-load-balancers-a-technical-guide)
-- [Mastering Laravel Redirects: A Comprehensive Guide](https://jose.jimenez.dev/mastering-laravel-redirects-a-comprehensive-guide)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
