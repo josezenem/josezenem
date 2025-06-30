@@ -9,11 +9,11 @@
 
 ### Recent Articles
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Productivity Hacks: 10 Workflow Enhancements You Can Implement Today](https://jose.jimenez.dev/laravel-productivity-hacks-10-workflow-enhancements-you-can-implement-today)
 - [Fixing macOS Sequoia 15.5 Vagrant Shared Folder Issues with Laravel Homestead](https://jose.jimenez.dev/fixing-macos-sequoia-155-vagrant-shared-folder-issues-with-laravel-homestead)
 - [Laravel&#39;s Modern Look: A Deep Dive into the Structure Introduced in v11](https://jose.jimenez.dev/laravels-modern-look-a-deep-dive-into-the-structure-introduced-in-v11)
 - [10 Essential Laravel Performance Optimization Techniques](https://jose.jimenez.dev/10-essential-laravel-performance-optimization-techniques)
 - [Optimizing Spatie Media Library for Large Collections: A Custom Path Generator](https://jose.jimenez.dev/optimizing-spatie-media-library-for-large-collections-a-custom-path-generator)
-- [Best Practices for Creating and Organizing Laravel Artisan Commands](https://jose.jimenez.dev/best-practices-for-creating-and-organizing-laravel-artisan-commands)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
