@@ -9,11 +9,11 @@
 
 ### Recent Articles
 <!-- BLOG-POST-LIST:START -->
+- [A Look at PHP 8.5: What&#39;s New, What&#39;s Deprecated, and What to Expect](https://jose.jimenez.dev/a-look-at-php-85-whats-new-whats-deprecated-and-what-to-expect)
 - [Prevent Disk Space Woes with Automated Laravel Envoyer Release Cleanup](https://jose.jimenez.dev/prevent-disk-space-woes-with-automated-laravel-envoyer-release-cleanup)
 - [Laravel Productivity Hacks: 10 Workflow Enhancements You Can Implement Today](https://jose.jimenez.dev/laravel-productivity-hacks-10-workflow-enhancements-you-can-implement-today)
 - [Fixing macOS Sequoia 15.5 Vagrant Shared Folder Issues with Laravel Homestead](https://jose.jimenez.dev/fixing-macos-sequoia-155-vagrant-shared-folder-issues-with-laravel-homestead)
 - [Laravel&#39;s Modern Look: A Deep Dive into the Structure Introduced in v11](https://jose.jimenez.dev/laravels-modern-look-a-deep-dive-into-the-structure-introduced-in-v11)
-- [10 Essential Laravel Performance Optimization Techniques](https://jose.jimenez.dev/10-essential-laravel-performance-optimization-techniques)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
